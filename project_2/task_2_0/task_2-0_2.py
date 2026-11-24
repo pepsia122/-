@@ -1,0 +1,1 @@
+print('Name: ' 'Bublik' ' ' 'Age:' '67')
